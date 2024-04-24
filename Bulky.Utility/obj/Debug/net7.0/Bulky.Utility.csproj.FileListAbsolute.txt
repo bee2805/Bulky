@@ -10,3 +10,4 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.pdb
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/ref/Bulky.Utility.dll
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.csproj.AssemblyReference.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.sourcelink.json
