@@ -1,16 +1,21 @@
 ﻿<Properties StartupConfiguration="{CF61CDB3-9CD2-41A6-AC28-AFE3EDC5B2DB}|https" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bulky.DataAccess/Data/DesignTimeDbContextFactory.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bulky.DataAccess/Repository/UnitOfWork.cs">
     <Files>
-      <File FileName="Bulky.DataAccess/Data/ApplicationDbContext.cs" Line="26" Column="1" />
-      <File FileName="BulkyWeb/Program.cs" Line="29" Column="22" />
-      <File FileName="BulkyWeb/appsettings.json" Line="13" Column="1" />
-      <File FileName="Bulky.DataAccess/Data/DesignTimeDbContextFactory.cs" Line="28" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/UnitOfWork.cs" Line="23" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bulky" expanded="True">
-            <Node name="BulkyWeb" selected="True" />
+            <Node name="Bulky.DataAccess">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository">
+                <Node name="UnitOfWork.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="BulkyWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -20,7 +25,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />

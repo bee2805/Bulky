@@ -14,7 +14,7 @@ if (string.IsNullOrEmpty(connectionString))
     throw new ApplicationException("Default connection is missing in the appsettings.json.");
 }
 
-builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 // Configure the database connection
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
