@@ -1,4 +1,6 @@
 ﻿using Bulky.DataAccess.Data;
+using Bulky.DataAccess.Repository;
+using Bulky.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,8 @@ if (string.IsNullOrEmpty(connectionString))
 {
     throw new ApplicationException("Default connection is missing in the appsettings.json.");
 }
+
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 // Configure the database connection
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
