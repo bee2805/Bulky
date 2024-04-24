@@ -1,0 +1,27 @@
+﻿@page
+@model BulkyWebRazor_Temp.Pages.Categories.DeleteModel
+
+<form method="post" class=" border mt-5 p-5">
+    <input asp-for="Category.Id" hidden />
+    <div class="row pb-2">
+        <h2 class="text-primary">Delete Category</h2>
+        <hr class="mb-5" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Category.Name"></label>
+        <input asp-for="Category.Name" class="form-control" disabled />
+    </div>
+    <div class="mb-5">
+        <label asp-for="Category.DisplayOrder"></label>
+        <input asp-for="Category.DisplayOrder" class="form-control" disabled />
+    </div>
+    <button type="submit" class="btn btn-danger border">Delete</button>
+    <a asp-page="/categories/index" class="btn btn-secondary border">Back to List</a>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

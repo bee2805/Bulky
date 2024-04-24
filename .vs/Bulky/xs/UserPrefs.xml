@@ -1,18 +1,28 @@
-﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{CF61CDB3-9CD2-41A6-AC28-AFE3EDC5B2DB}|https">
+﻿<Properties StartupConfiguration="{A8B4E83C-C7C7-44D6-B4F5-9AFB9593BAFC}|https" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.BulkyWebRazor__Temp PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyWebRazor_Temp/Program.cs">
+    <Files>
+      <File FileName="BulkyWeb/Program.cs" Line="31" Column="50" />
+      <File FileName="BulkyWebRazor_Temp/Program.cs" Line="8" Column="62" NotebookId="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Bulky" expanded="True" selected="True" />
+          <Node name="Bulky" expanded="True">
+            <Node name="BulkyWebRazor_Temp">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
