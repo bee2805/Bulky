@@ -1,0 +1,12 @@
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.deps.json
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/bin/Debug/net7.0/Bulky.Utility.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.csproj.AssemblyReference.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.AssemblyInfoInputs.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.AssemblyInfo.cs
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.csproj.CoreCompileInputs.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/refint/Bulky.Utility.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/Bulky.Utility.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/obj/Debug/net7.0/ref/Bulky.Utility.dll

@@ -1132,6 +1132,41 @@
             "rid": "win"
           }
         }
+      },
+      "Bulky.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Bulky.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        }
+      },
+      "Bulky.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        }
+      },
+      "Bulky.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bulky.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Utility.dll": {}
+        }
       }
     }
   },
@@ -3452,10 +3487,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Bulky.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+    },
+    "Bulky.Models/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Models/Bulky.Models.csproj",
+      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+    },
+    "Bulky.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Utility/Bulky.Utility.csproj",
+      "msbuildProject": "../Bulky.Utility/Bulky.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Bulky.DataAccess >= 1.0.0",
+      "Bulky.Models >= 1.0.0",
+      "Bulky.Utility >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0"
@@ -3486,7 +3539,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj": {
+              "projectPath": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj"
+            },
+            "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/Bulky.Models.csproj": {
+              "projectPath": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/Bulky.Models.csproj"
+            },
+            "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/Bulky.Utility.csproj": {
+              "projectPath": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/Bulky.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

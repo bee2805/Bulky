@@ -1,0 +1,17 @@
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.deps.json
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.runtimeconfig.json
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.DataAccess.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.Models.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/bin/Debug/net7.0/Bulky.Models.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.AssemblyReference.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.AssemblyInfoInputs.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.AssemblyInfo.cs
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.CoreCompileInputs.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.csproj.CopyComplete
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/refint/Bulky.DataAccess.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.genruntimeconfig.cache
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/ref/Bulky.DataAccess.dll

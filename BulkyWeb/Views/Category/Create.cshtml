@@ -1,24 +1,37 @@
 ﻿@model Category
 
-<form method="post" class=" border mt-5 p-5">
-    <div class="row pb-2">
-        <h2 class="text-primary">Create Category</h2>
-        <hr class="mb-5"/>
+<div class="card shadow border-0 mt-4">
+    <div class="card-header ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-primary py-2">Create Category</h2>
+            </div>
+        </div>
     </div>
-    @*<div asp-validation-summary="None" class="text-danger mb-5"></div>*@
-    <div class="mb-3">
-        <label asp-for="Name"></label>
-        <input asp-for="Name" class="form-control" />
-        <span asp-validation-for="Name" class="text-danger text-small"></span>
+    <div class="card-body p-5">
+        <form method="post" class="row">
+            @*<div asp-validation-summary="None" class="text-danger mb-5"></div>*@
+            <div class="mb-3">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger text-small"></span>
+            </div>
+
+            <div class="mb-5">
+                <label asp-for="DisplayOrder"></label>
+                <input asp-for="DisplayOrder" class="form-control" />
+                <span asp-validation-for="DisplayOrder" class="text-danger text-small"></span>
+            </div>
+
+            <div>
+                <button type="submit" class="width-auto btn btn-primary border">Create</button>
+                <a asp-controller="Category" asp-action="Index" class="btn width-auto btn-secondary border">Back to List</a>
+            </div>
+        </form>
     </div>
-    <div class="mb-5">
-        <label asp-for="DisplayOrder"></label>
-        <input asp-for="DisplayOrder" class="form-control" />
-        <span asp-validation-for="DisplayOrder" class="text-danger text-small"></span>
-    </div>
-    <button type="submit" class="btn btn-primary border">Create</button>
-    <a asp-controller="Category" asp-action="Index"class="btn btn-secondary border">Back to List</a>
-</form>
+</div>
+
+
 
 @section Scripts{
     @{
