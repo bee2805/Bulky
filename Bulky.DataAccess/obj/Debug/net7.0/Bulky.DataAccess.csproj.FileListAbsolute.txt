@@ -17,4 +17,3 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.pdb
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.genruntimeconfig.cache
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/ref/Bulky.DataAccess.dll
-/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.sourcelink.json
