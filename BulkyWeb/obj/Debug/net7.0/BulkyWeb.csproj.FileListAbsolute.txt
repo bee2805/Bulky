@@ -80,3 +80,4 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/bin/Debug/net7.0/Bulky.DataAccess.pdb
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/bin/Debug/net7.0/Bulky.Models.pdb
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/bin/Debug/net7.0/Bulky.Utility.pdb
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.sourcelink.json

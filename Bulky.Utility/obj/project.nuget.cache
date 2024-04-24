@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "rw0V3u70HXwCnKSNI6+cXdpIMH5Is9kASn6gfyGTiybbnBKZpGIz8WPK3XfzGAu6oBXi0AY0KzzraFxc5tjtHQ==",
+  "dgSpecHash": "WOBWsHqKueDIpes2yM0Bjd9zackzY2odA90alD4kkhC4DlBEcdyk6QhI/kqdnUAvqGBA5xmkdMWoyudN+JblKA==",
   "success": true,
   "projectFilePath": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Utility/Bulky.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/bronwynpotgieter/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

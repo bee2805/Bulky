@@ -1,7 +1,6 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.deps.json
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.dll
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.pdb
-/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.AssemblyReference.cache
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfoInputs.cache
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfo.cs
@@ -10,3 +9,5 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/refint/Bulky.Models.dll
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.pdb
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/ref/Bulky.Models.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.sourcelink.json
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.AssemblyReference.cache

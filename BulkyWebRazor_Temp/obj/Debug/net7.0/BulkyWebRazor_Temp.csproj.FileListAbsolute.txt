@@ -73,3 +73,4 @@
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWebRazor_Temp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWebRazor_Temp/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWebRazor_Temp/bin/Debug/net7.0/System.CodeDom.dll
+/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWebRazor_Temp/obj/Debug/net7.0/BulkyWebRazor_Temp.sourcelink.json
