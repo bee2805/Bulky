@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/images/product/c1de4f41-b903-4f48-9a18-07322e89366d.jpg",
+      "PackagePath": "staticwebassets/images/product/c1de4f41-b903-4f48-9a18-07322e89366d.jpg"
+    },
+    {
       "Id": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
