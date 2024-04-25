@@ -9,5 +9,3 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bulky.DataAccess
 build_property.ProjectDir = /Users/bronwynpotgieter/Documents/Learnings/Bulky/Bulky.DataAccess/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
