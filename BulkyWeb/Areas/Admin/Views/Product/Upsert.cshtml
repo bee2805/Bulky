@@ -4,13 +4,14 @@
     <div class="card-header ml-0 py-3">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="text-primary py-2">Create Product</h2>
+                <h2 class="text-primary py-2">@(Model.Product.Id!=0?"Update":"Create") Product</h2>
             </div>
         </div>
     </div>
     <div class="card-body p-5">
         <form method="post" class="row" enctype="multipart/form-data">
             @*<div asp-validation-summary="None" class="text-danger mb-3"></div>*@
+            <input asp-for="Product.Id" hidden/>
             <div class="mb-3">
                 <label asp-for="Product.Title"></label>
                 <input asp-for="Product.Title" class="form-control" />
@@ -19,8 +20,7 @@
 
             <div class="mb-3">
                 <label asp-for="Product.Description"></label>
-                <input asp-for="Product.Description" class="form-control" />
-                <span asp-validation-for="Product.Description" class="text-danger text-small"></span>
+                <textarea asp-for="Product.Description" class="form-control"></textarea>
             </div>
 
             <div class="mb-3">
@@ -73,7 +73,15 @@
             </div>
 
             <div>
-                <button type="submit" class="width-auto btn btn-primary border">Create</button>
+                @if (Model.Product.Id != 0)
+                {
+                    <button type="submit" class="width-auto btn btn-primary border">Update</button>
+                }
+                else
+                {
+                    <button type="submit" class="width-auto btn btn-primary border">Create</button>
+                }
+
                 <a asp-controller="Product" asp-action="Index" class="btn width-auto btn-secondary border">Back to List</a>
             </div>
         </form>
@@ -82,6 +90,20 @@
 
 
 @section Scripts{
+
+    <script>tinymce.init({
+        selector: 'textarea',
+        plugins: 'anchor autolink charmap codesample emoticons link lists table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage advtemplate ai mentions tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss markdown',
+        toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent ',
+        tinycomments_mode: 'embedded',
+        tinycomments_author: 'Author name',
+        mergetags_list: [
+          { value: 'First.Name', title: 'First Name' },
+          { value: 'Email', title: 'Email' },
+        ],
+        ai_request: (request, respondWith) => respondWith.string(() => Promise.reject("See docs to implement AI Assistant")),
+      });
+    </script>
     @{
         <partial Product.Title="_ValidationScriptsPartial"/>
     }
