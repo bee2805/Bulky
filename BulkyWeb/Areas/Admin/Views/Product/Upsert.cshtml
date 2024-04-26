@@ -11,7 +11,8 @@
     <div class="card-body p-5">
         <form method="post" class="row" enctype="multipart/form-data">
             @*<div asp-validation-summary="None" class="text-danger mb-3"></div>*@
-            <input asp-for="Product.Id" hidden/>
+            <input asp-for="Product.Id" hidden />
+            <input asp-for="Product.ImageUrl" hidden />
             <div class="row">
                 <div class="col-10">
                     <div class="mb-3">
@@ -88,10 +89,10 @@
                     </div>
                 </div>
                 <div class="col-2">
-                    <img src="@Model.Product.ImageUrl" width="100%" style="border-radius: 5px; border: 1px solid #bbb9b9"/>
+                    <img src="@Model.Product.ImageUrl" width="100%" style="border-radius: 5px; border: 1px solid #bbb9b9" />
                 </div>
             </div>
-            
+
         </form>
     </div>
 </div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uYwPGMQXgwxOfmzwoS8j0OlD+i7zxsFedFx3kJXepgk=",
+  "Hash": "RLaMCS5LyBHrYITK2xsTNOHZ7hEqaJ2DgTsj+HToqec=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/obj/Debug/net7.0/scopedcss/projectbundle/BulkyWeb.bundle.scp.css"
     },
     {
+      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/.DS_Store",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/css/site.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -85,12 +102,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/images/product/c1de4f41-b903-4f48-9a18-07322e89366d.jpg",
+      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/images/.DS_Store",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/c1de4f41-b903-4f48-9a18-07322e89366d.jpg",
+      "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +116,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/product/c1de4f41-b903-4f48-9a18-07322e89366d.jpg"
+      "OriginalItemSpec": "wwwroot/images/.DS_Store"
+    },
+    {
+      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/images/product/.DS_Store",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/.DS_Store"
+    },
+    {
+      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/images/product/9d49c151-1a22-4d64-8d9d-cf0373bbb580.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/9d49c151-1a22-4d64-8d9d-cf0373bbb580.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/9d49c151-1a22-4d64-8d9d-cf0373bbb580.jpg"
     },
     {
       "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/site.js",
