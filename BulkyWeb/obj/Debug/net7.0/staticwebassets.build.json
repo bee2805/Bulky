@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RLaMCS5LyBHrYITK2xsTNOHZ7hEqaJ2DgTsj+HToqec=",
+  "Hash": "XDh1rUAinbn35jLdZQg+xGebELvdnBBrZ1wm31gfjz4=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/product/9d49c151-1a22-4d64-8d9d-cf0373bbb580.jpg"
+    },
+    {
+      "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/Product.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/Product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Product.js"
     },
     {
       "Identity": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/site.js",

@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets/images/product/9d49c151-1a22-4d64-8d9d-cf0373bbb580.jpg"
     },
     {
+      "Id": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/Product.js",
+      "PackagePath": "staticwebassets/js/Product.js"
+    },
+    {
       "Id": "/Users/bronwynpotgieter/Documents/Learnings/Bulky/BulkyWeb/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
